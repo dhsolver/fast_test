@@ -1,0 +1,46 @@
+{
+  "name": "restaurant-challenge",
+  "version": "1.0.0",
+  "description": "Technical React exercise",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbilabs/RestaurantChallenge.git"
+  },
+  "author": "RBI",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.21.0",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.13.7",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.0.1",
+    "reactn": "^2.2.7"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": true
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
